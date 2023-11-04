@@ -1,0 +1,11 @@
+.box{
+    width: 320px;
+    height: 220px;
+    border: 1px solid #B4B4B4;
+    background-color: #FFF;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.text{
+    color: #808080;
+}
